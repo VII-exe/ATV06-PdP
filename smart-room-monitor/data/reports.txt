@@ -1,0 +1,23 @@
+=== RELATÓRIO DO SISTEMA ===
+Gerado em: 21/08/2025 01:35:05
+
+SENSORES:
+- Total: 0
+- Temperatura: 26.2°C
+- Presença: SIM
+- Luminosidade: 774 lux
+
+DISPOSITIVOS:
+- Luz: DESLIGADA
+- Ventilador: DESLIGADO
+
+ESTATÍSTICAS:
+- Ciclos processados: 32
+- Ações no log: 15
+
+ÚLTIMAS AÇÕES:
+- 21/08/2025 01:33:15 - Sensor removido: asdasd (ID: sdaas)
+- 21/08/2025 01:33:55 - Ventilador LIGADO
+- 21/08/2025 01:34:15 - Ventilador DESLIGADO
+- 21/08/2025 01:34:35 - Ventilador LIGADO
+- 21/08/2025 01:34:45 - Ventilador DESLIGADO

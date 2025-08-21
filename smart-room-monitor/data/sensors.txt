@@ -1,0 +1,11 @@
+=== DADOS DOS SENSORES ===
+Timestamp: 21/08/2025 01:35:05
+Sensores: 0
+
+
+=== VALORES ATUAIS ===
+Temperatura: 26.2°C
+Presença: true
+Luminosidade: 774 lux
+Luz: DESLIGADA
+Ventilador: DESLIGADO
