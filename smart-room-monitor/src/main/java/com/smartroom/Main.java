@@ -9,9 +9,6 @@ import com.sun.net.httpserver.HttpServer;
 import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpExchange;
 
-/**
- * Classe principal para iniciar o servidor - VERSÃO SIMPLIFICADA SEM PACKAGES
- */
 public class Main {
     
     private static final int PORT = 8080;
