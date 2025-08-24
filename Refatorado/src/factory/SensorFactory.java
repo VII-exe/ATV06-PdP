@@ -1,6 +1,9 @@
 package factory;
 
 import core.Sensor;
+import sensors.LuminositySensor;
+import sensors.PresenceSensor;
+import sensors.TemperatureSensor;
 
 public class SensorFactory {
     public Sensor create(String type, String id) {

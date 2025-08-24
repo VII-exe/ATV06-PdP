@@ -2,6 +2,12 @@ package facade;
 
 import core.Device;
 import core.Sensor;
+import factory.DeviceFactory;
+import factory.SensorFactory;
+import observer.MonitoringService;
+import report.ReportGenerator;
+import report.SensorData;
+import strategy.ActionStrategy;
 
 import java.nio.file.Path;
 import java.util.HashMap;

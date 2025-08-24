@@ -1,4 +1,4 @@
-package com.smartroom.report;
+package report;
 
 import java.time.Instant;
 import java.util.Objects;
@@ -16,19 +16,34 @@ public class SensorData {
         this.timestamp = timestamp == null ? Instant.now() : timestamp;
     }
 
-    public String getSensorId() { return sensorId; }
-    public String getType() { return type; }
-    public double getValue() { return value; }
-    public Instant getTimestamp() { return timestamp; }
+    public String getSensorId() {
+        return sensorId;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public double getValue() {
+        return value;
+    }
+
+    public Instant getTimestamp() {
+        return timestamp;
+    }
 
     @Override
     public String toString() {
         return "SensorData{" +
-                "sensorId='" + sensorId + ''' +
-                ", type='" + type + ''' +
-                ", value=" + value +
-                ", timestamp=" + timestamp +
-                '}';
+                "sensorId='"
+                + sensorId
+                + ", type='"
+                + type
+                + ", value="
+                + value
+                + ", timestamp="
+                + timestamp
+                + '}';
     }
 
     @Override
@@ -47,4 +62,3 @@ public class SensorData {
         return Objects.hash(sensorId, type, value, timestamp);
     }
 }
-

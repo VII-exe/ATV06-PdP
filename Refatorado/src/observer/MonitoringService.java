@@ -1,9 +1,9 @@
-package com.smartroom.observer;
+package observer;
 
-import com.smartroom.core.Sensor;
-import com.smartroom.core.SensorObserver;
-import com.smartroom.report.SensorData;
-import com.smartroom.strategy.ActionStrategy;
+import core.Sensor;
+import core.SensorObserver;
+import report.SensorData;
+import strategy.ActionStrategy;
 
 import java.util.ArrayList;
 import java.util.Collections;

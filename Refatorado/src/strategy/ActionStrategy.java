@@ -1,6 +1,6 @@
-package com.smartroom.strategy;
+package strategy;
 
-import com.smartroom.report.SensorData;
+import report.SensorData;
 
 public interface ActionStrategy {
     void apply(SensorData data);
