@@ -32,7 +32,7 @@ SmartRoomSystem.java (400+ linhas)
 ├── Parsing JSON Manual
 └── Timer/Scheduling
 
-Main.java (100 linhas)
+Aplicacao.java (100 linhas)
 ├── Inicialização do Servidor
 ├── Configuração HTTP
 └── Serving de Arquivos Estáticos

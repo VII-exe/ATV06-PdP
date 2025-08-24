@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ATV06-PdP.iml" filepath="$PROJECT_DIR$/ATV06-PdP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refatorado/Refatorado.iml" filepath="$PROJECT_DIR$/Refatorado/Refatorado.iml" />
     </modules>
   </component>
 </project>
