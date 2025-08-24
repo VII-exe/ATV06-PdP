@@ -1,7 +1,7 @@
-package com.smartroom.strategy;
+package strategy;
 
-import com.smartroom.core.Device;
-import com.smartroom.report.SensorData;
+import core.Device;
+import report.SensorData;
 
 import java.util.function.Supplier;
 

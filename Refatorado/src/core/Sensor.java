@@ -1,5 +1,7 @@
 package core;
 
+import report.SensorData;
+
 public interface Sensor {
     String getId();
     SensorData read();

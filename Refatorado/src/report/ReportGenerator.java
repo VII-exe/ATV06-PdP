@@ -1,4 +1,4 @@
-package com.smartroom.report;
+package report;
 
 import java.io.IOException;
 import java.io.PrintWriter;
